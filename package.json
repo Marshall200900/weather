@@ -36,7 +36,9 @@
       "last 1 safari version"
     ]
   },
-  "crcf": {
-    "output": "src/components"
-  }
+  "crcf": [
+    {
+      "output": "src/components"
+    }
+  ]
 }

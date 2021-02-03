@@ -1,0 +1,21 @@
+.search {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 100px;
+}
+.search .input {
+    border: 3px solid #158CBA;
+    border-radius: 8px;
+    width: 500px;
+    height: 50px;
+    margin: 5px;
+    outline: none;
+    font-size: 1rem;
+}
+.search button.btn.btn-primary{
+    height: 50px;
+    margin: 5px;
+    outline: none;
+
+}

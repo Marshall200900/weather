@@ -1,0 +1,40 @@
+.results.hide{
+    display: none;
+}
+.results {
+    width: 600px;
+    margin: 20px;
+    font-family: "Londrina Solid";
+
+}
+.results ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+li {
+    text-align: left;
+    margin: 5px;
+    font-size: 1rem;
+    font-family: "Rubik Mono One";
+}
+.results .main-weather-info {
+    display: flex;
+    justify-content: space-between;
+
+}
+.results .main-weather-info img {
+    width: auto;
+    height: 100px;
+    margin: 20px;
+}
+.results .main-weather-info .info {
+    margin: 20px;
+    font-size: 3vw;
+    height: 200px;
+    text-align: right;
+}
+.results .additional-info {
+    margin-top: -50px;
+}
